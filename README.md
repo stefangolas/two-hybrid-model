@@ -1,1 +1,1 @@
-# two-hybrid-model
+# Two-Hybrid Model
